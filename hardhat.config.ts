@@ -1,3 +1,4 @@
+import "@nomiclabs/hardhat-ethers";
 import type { HardhatUserConfig, HttpNetworkUserConfig } from "hardhat/types";
 import "@nomiclabs/hardhat-etherscan";
 import "@nomiclabs/hardhat-waffle";
